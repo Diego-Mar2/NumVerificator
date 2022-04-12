@@ -1,0 +1,26 @@
+body{
+    background:rgb(87, 174, 255);
+    font: normal 20pt Arial;
+}
+header{
+    color: cornsilk;
+    text-shadow:2px 2px 4px rgba(0, 0, 0, 0.378);
+    text-align: center;
+}
+section{
+    background-color: cornsilk;
+    border-radius: 5px;
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+    color: rgb(119, 119, 119);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.296);
+    font: normal 15pt Arial;
+}
+footer{
+    font: normal 15pt Arial;
+    color: cornsilk;
+    text-align: center;
+    text-shadow:1px 1px 2px black;
+    padding: 10px;
+}
